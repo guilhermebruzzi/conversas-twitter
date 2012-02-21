@@ -1,0 +1,3 @@
+#Projeto usando a API do twitter e o tornado para mostrar conversas com os seus amigos
+#Necessario instalar o tornado
+sudo pip install tornado
